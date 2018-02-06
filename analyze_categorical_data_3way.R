@@ -1,7 +1,7 @@
 # Title: Analyze Categorical Data, Three Way
-# Desription: Analyze a categorical dataset using frequency tables and mosaic
-#             plots with chi squared, p-values and Cramer's v to test for
-#             statistical significance
+# Desription: Analyze a categorical dataset in groups of 3 variables using
+#             frequency tables and mosaic plots with chi squared, p-values and 
+#             Cramer's v to test for statistical significance
 # Author: James Harper, PE, ENV SP
 # Date Created: February 6, 2018
 # -----------------------------------------------------------------------------
